@@ -5,7 +5,7 @@ To install this package from GitHub, run the following code from the R console:
 
 ```{r}
 library(devtools)
-install_github("ZhaoyingLuLuLu/SCHACE/SCHACE-Feb24")
+install_github("ZhaoyingLuLuLu/SCHACE/SCHACE-v2")
 ```
 
 Detailed instructions on how to run the functions in SCHACE are provided in SCHACE/SCHACE-Feb24/vignettes/SCHACE-tutorial.Rmd.
