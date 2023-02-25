@@ -8,4 +8,4 @@ library(devtools)
 install_github("ZhaoyingLuLuLu/SCHACE/SCHACE-v2")
 ```
 
-Detailed instructions on how to run the functions in SCHACE are provided in SCHACE/SCHACE-Feb24/vignettes/SCHACE-tutorial.Rmd.
+Detailed instructions on how to run the functions in SCHACE are provided in SCHACE/SCHACE-v2/vignettes/SCHACE-tutorial.Rmd.
