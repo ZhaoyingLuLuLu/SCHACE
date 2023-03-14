@@ -1,5 +1,5 @@
 library(devtools)
-install_github("ZhaoyingLuLuLu/SCHACE/SCHACE-v2")
+install_github("ZhaoyingLuLuLu/SCHACE/SCHACE-v4")
 library(SCHACE)
 
 ### 3-fold cross-validation procedure with trimmed L2-error (percent = 10%)
